@@ -71,4 +71,4 @@ C:\Users\saisubodh\Desktop\test\hackathon\hackathon\obj\Debug\net6.0\ref\hackath
 C:\Users\saisubodh\Desktop\test\hackathon\hackathon\obj\Debug\net6.0\hackathon.pdb
 C:\Users\saisubodh\Desktop\test\hackathon\hackathon\obj\Debug\net6.0\hackathon.genruntimeconfig.cache
 C:\Users\saisubodh\Desktop\test\hackathon\hackathon\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\saisubodh\Desktop\test\hackathon\hackathon\bin\Debug\net6.0\project\metadata.json
+C:\Users\saisubodh\Desktop\test\hackathon\hackathon\bin\Debug\net6.0\project\saisubodh\hackathon\metadata.json
